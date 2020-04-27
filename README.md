@@ -1,22 +1,22 @@
 # resources
 
-## Long Form Content
+### Long Form Content
 - [Engineering for a safer world](http://sunnyday.mit.edu/safer-world.pdf) - Zargham says "probably the best starting point for anyone entering token engineering to think about governance and automation in the same stream."
 
-## Blog Posts
+### Blog Posts
 - [TBD](TBD) - TBD.
 
-## Meetups
+### Meetups
 - [TBD](TBD) - TBD.
 
-## Workshops
+### Workshops
 - [TBD](TBD) - TBD.
 
-## Communities
+### Communities
 - [TBD](TBD) - TBD.
 
-## Chats
+### Chats
 - [TBD](TBD) - TBD.
 
-## Other Things
+### Other Things
 - [TBD](TBD) - TBD.
