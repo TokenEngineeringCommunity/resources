@@ -14,7 +14,7 @@
 - [Commons Stack Telegram](https://t.me/commonsstack) - 💬 Say hi to the Commons Stack community and talk about all the things.
 
 ### Projects
-- [Grassroots Economics](https://www.grassrootseconomics.org/) - Creating sustainable community currentices.
+- [Grassroots Economics](https://www.grassrootseconomics.org/) - 🌱 Creating sustainable community currentices.
 
 ### Long Form Content
 - [Engineering for a safer world](http://sunnyday.mit.edu/safer-world.pdf) - 📕 Probably the best starting point for anyone entering token engineering to think about governance and automation in the same stream.
