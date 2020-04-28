@@ -21,11 +21,13 @@
 - [TBD](TBD) - TBD.
 
 ### Communities
+- [Token Engineering](tokens.engineering) - 🖥️ A community pushing forward the field of token engineering in theory and practice.
 - [Commons Stack](https://commonsstack.org/) - 🖥️ A design and engineering group working to create mechanisms and systems that realign incentives around public goods.
 
 ### Chats
-- [Commons Stack Telegram](https://t.me/commonsstack) - 💬 Say hi to the Commons Stack community.
-- [TBD](TBD) - TBD.
+- [Token Engineering Telegram](https://t.me/TokenEngineering) -  💬 Say hi to the Token Engineering community and talk about all the things.
+- [Token Engineering Discord](https://discord.gg/gHvksh8) -  💬 Also a place to say hi to the Token Engineering community, but with more structured channels for various topics related to token engineering.
+- [Commons Stack Telegram](https://t.me/commonsstack) - 💬 Say hi to the Commons Stack community and talk about all the things.
 
 ### Other Things
 - [TBD](TBD) - TBD.
