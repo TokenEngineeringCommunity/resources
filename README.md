@@ -6,7 +6,7 @@
 
 ### Communities
 - [Token Engineering](tokens.engineering) - 🖥️ A community pushing forward the field of token engineering in theory and practice.
-- [Commons Stack](https://commonsstack.org/) - 🖥️ A design and engineering group working to create mechanisms and systems that realign incentives around public goods.
+- [Commons Stack](https://commonsstack.org/) - 🖥️ A design and engineering group creating systems that incentivize the creation and maintenance of public goods.
 
 ### Chats
 - [Token Engineering Telegram](https://t.me/TokenEngineering) -  💬 Say hi to the Token Engineering community and talk about all the things.
