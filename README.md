@@ -29,5 +29,8 @@
 - [Token Engineering Discord](https://discord.gg/gHvksh8) -  💬 Also a place to say hi to the Token Engineering community, but with more structured channels for various topics related to token engineering.
 - [Commons Stack Telegram](https://t.me/commonsstack) - 💬 Say hi to the Commons Stack community and talk about all the things.
 
+### Projects
+- [Grassroots Economics](https://www.grassrootseconomics.org/) - Creating sustainable community currentices.
+
 ### Other Things
 - [TBD](TBD) - TBD.
