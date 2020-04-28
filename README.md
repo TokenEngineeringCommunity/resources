@@ -9,7 +9,7 @@
 - [Towards a diversity of DAOs](https://www.youtube.com/watch?v=75769EjciVk) - 📺 Technologically enabled social systems: DAOs.
 
 ### Long Form Content
-- [Engineering for a safer world](http://sunnyday.mit.edu/safer-world.pdf) - 📕 Zargham says "probably the best starting point for anyone entering token engineering to think about governance and automation in the same stream."
+- [Engineering for a safer world](http://sunnyday.mit.edu/safer-world.pdf) - 📕 Probably the best starting point for anyone entering token engineering to think about governance and automation in the same stream.
 
 ### Blog Posts
 - [TBD](TBD) - TBD.
