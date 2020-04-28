@@ -21,9 +21,10 @@
 - [TBD](TBD) - TBD.
 
 ### Communities
-- [TBD](TBD) - TBD.
+- [Commons Stack](https://commonsstack.org/) - 🖥️ A design and engineering group working to create mechanisms and systems that realign incentives around public goods.
 
 ### Chats
+- [Commons Stack Telegram](https://t.me/commonsstack) - 💬 Say hi to the Commons Stack community.
 - [TBD](TBD) - TBD.
 
 ### Other Things
