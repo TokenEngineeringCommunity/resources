@@ -15,7 +15,7 @@
 - [Token engineering in practice](https://youtu.be/xRqXAlpWl0Y) - 📺 As advertised.
 - [Towards a diversity of DAOs](https://www.youtube.com/watch?v=75769EjciVk) - 📺 Technologically enabled social systems: DAOs.
 - [Differential Specification Syntax Key](https://community.cadcad.org/t/differential-specification-syntax-key/31) - 📄 How to read (and create) diagrams in the CadCAD ecosystem.
-- [Token Engineering Fundamentals](https://www.youtube.com/watch?v=DsRG9uZmME8) - 📺 1 hour overview of token engineering and all the things related to it (spoiler alert: it's not all about tokens).
+- [Token Engineering Fundamentals (2018)](https://www.youtube.com/watch?v=DsRG9uZmME8) - 📺 1 hour overview of token engineering and all the things related to it (spoiler alert: it's not all about tokens).
 
 ### Long Form Content
 - [Engineering for a safer world](http://sunnyday.mit.edu/safer-world.pdf) - 📕 Probably the best starting point for anyone entering token engineering to think about governance and automation in the same stream.
