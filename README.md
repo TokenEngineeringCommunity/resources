@@ -7,6 +7,7 @@
 - [Token Engineering Fundamentals](https://www.youtube.com/watch?v=DsRG9uZmME8) - 📺 1 hour overview of token engineering fundamentals.
 
 ### Communities
+- [BlockScience](https://block.science/) - 🖥️ BlockScience ® is an engineering, R&D, and analytics firm specializing in complex systems. 
 - [Token Engineering](tokens.engineering) - 🖥️ A community pushing forward the field of token engineering in theory and practice.
 - [Commons Stack](https://commonsstack.org/) - 🖥️ A design and engineering group creating systems that incentivize the creation and maintenance of public goods.
 
@@ -32,3 +33,4 @@
 
 ### Other Things
 - [Token Engineering YouTube Channel](https://www.youtube.com/channel/UCDmzlpzOlaTALYV0hAwT0Tg) - 📺 A cornucopia of token engineering lectures. 
+- [BlockScience resources page](https://block.science/resources/) - 📺 📄 📕 A curation of resources related to token engineering.
