@@ -3,6 +3,7 @@
 - [Glossary of systems concepts](https://community.cadcad.org/t/working-glossary-of-systems-concepts/17) - 📄 An overview of the lineage of token engineering. 
 - [Token engineering in practice](https://youtu.be/xRqXAlpWl0Y) - 📺 As advertised.
 - [Towards a diversity of DAOs](https://www.youtube.com/watch?v=75769EjciVk) - 📺 Technologically enabled social systems: DAOs.
+- [Differential Specification Syntax Key](https://community.cadcad.org/t/differential-specification-syntax-key/31) - How to read (and create) diagrams in the CadCAD ecosystem.
 
 ### Communities
 - [Token Engineering](tokens.engineering) - 🖥️ A community pushing forward the field of token engineering in theory and practice.
