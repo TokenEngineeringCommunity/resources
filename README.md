@@ -21,6 +21,8 @@
 - [cadCAD Community Forum](https://community.cadcad.org/) - 🖥️ A community of researchers learning & building on the open source simulation & modeling tool that is the foundation of open token engineering.
 - [cadCAD in Practice](https://www.youtube.com/watch?v=PQGgWpbjFv8) - 📺 Michael Zargham & Jeff Emmett walk through the cadCAD model of the Commons Stack 'Cyber Physical Commons'
 - [cadCAD Fills a Critical Gap in Open Source Data Science](https://medium.com/block-science/cadcad-filling-a-critical-gap-in-open-source-data-science-fcd0d3faa8ed) - 📄 by Jonathan Gabler & Michael Zargham  
+- [LucidChart](https://www.lucidchart.com) - 🖥️ Diagramming tool for stock & flow diagrams and differential specifications.
+- [Platform Design Toolkit](https://platformdesigntoolkit.com/) - 🖥️ System design canvas tool that can guide your specification process.
 
 ### Academic Publications
 - [Foundations of Cryptoeconomic Systems](https://epub.wu.ac.at/7309/8/Foundations%20of%20Cryptoeconomic%20Systems.pdf) - 📄 by Shermin Voshmgir & Michael Zargham
