@@ -18,7 +18,7 @@
 - [Token Engineering Fundamentals (2018)](https://www.youtube.com/watch?v=DsRG9uZmME8) - 📺 1 hour overview of token engineering and all the things related to it (spoiler alert: it's not all about tokens).
 
 ### Tools of Token Engineering
-- [cadCAD Forum](https://community.cadcad.org/) - 🖥️ A community of researchers learning & building on the open source simulation & modeling tool that is the foundation of open token engineering.
+- [cadCAD Community Forum](https://community.cadcad.org/) - 🖥️ A community of researchers learning & building on the open source simulation & modeling tool that is the foundation of open token engineering.
 - [cadCAD in Practice](https://www.youtube.com/watch?v=PQGgWpbjFv8) - 📺 Michael Zargham & Jeff Emmett walk through the cadCAD model of the Commons Stack 'Cyber Physical Commons'
 
 ### Academic Publications
