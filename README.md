@@ -36,7 +36,7 @@
 
 
 ### Meetups
-- [TBD](TBD) - TBD.
+- [Token Engineering Berlin](https://www.meetup.com/Token-Engineering) - Token Engineering Meetup group
 
 ### Workshops
 - [TBD](TBD) - TBD.
