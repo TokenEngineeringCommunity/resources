@@ -22,24 +22,20 @@
 - [cadCAD in Practice](https://www.youtube.com/watch?v=PQGgWpbjFv8) - 📺 Michael Zargham & Jeff Emmett walk through the cadCAD model of the Commons Stack 'Cyber Physical Commons'
 
 ### Academic Publications
-- [Foundations of Cryptoeconomic Systems](https://epub.wu.ac.at/7309/8/Foundations%20of%20Cryptoeconomic%20Systems.pdf) - Shermin Voshmgir & Michael Zargham
-- [From Curved Bonding to Configuration Spaces](https://epub.wu.ac.at/7381/1/zargham_shorish_paruch.pdf) - Krzysztof Paruch, Jamsheed Shorish & Michael Zargham
-- [Economic Games as Estimators](https://epub.wu.ac.at/7433/1/zargham_paruch_shorish.pdf) - Krzysztof Paruch, Jamsheed Shorish & Michael Zargham
+- [Foundations of Cryptoeconomic Systems](https://epub.wu.ac.at/7309/8/Foundations%20of%20Cryptoeconomic%20Systems.pdf) - 📄 by Shermin Voshmgir & Michael Zargham
+- [From Curved Bonding to Configuration Spaces](https://epub.wu.ac.at/7381/1/zargham_shorish_paruch.pdf) - 📄 by Krzysztof Paruch, Jamsheed Shorish & Michael Zargham
+- [Economic Games as Estimators](https://epub.wu.ac.at/7433/1/zargham_paruch_shorish.pdf) - 📄 by Krzysztof Paruch, Jamsheed Shorish & Michael Zargham
 
 ### Long Form Content
 - [Engineering for a Safer World](http://sunnyday.mit.edu/safer-world.pdf) - 📕 by Nancy Levenson. Probably the best starting point for anyone entering token engineering to think about governance and automation in the same stream.
 
 ### Blog Posts
-- [A Token Engineering Process](https://medium.com/@stephen_yo/a-token-engineering-process-16687f3b9a74) - Stephen Young
-- [Establishing Open Token Engineering Tools & Standards](https://medium.com/commonsstack/establishing-open-token-engineering-tools-standards-9584b40dfe30) - Jeff Emmett, Commons Stack
-- [Modeling Cryptoeconomic Systems as Complex Systems](https://thegraph.com/blog/modeling-cryptoeconomic-protocols-as-complex-systems-part-1) - Brandon Ramirez, the Graph
-
+- [A Token Engineering Process](https://medium.com/@stephen_yo/a-token-engineering-process-16687f3b9a74) - 📄 by Stephen Young
+- [Establishing Open Token Engineering Tools & Standards](https://medium.com/commonsstack/establishing-open-token-engineering-tools-standards-9584b40dfe30) - 📄 by Jeff Emmett, Commons Stack
+- [Modeling Cryptoeconomic Systems as Complex Systems](https://thegraph.com/blog/modeling-cryptoeconomic-protocols-as-complex-systems-part-1) - 📄 by Brandon Ramirez, the Graph
 
 ### Meetups
-- [Token Engineering Berlin](https://www.meetup.com/Token-Engineering) - Token Engineering Meetup group
-
-### Workshops
-- [TBD](TBD) - TBD.
+- [Token Engineering Berlin](https://www.meetup.com/Token-Engineering) - 💬 Token Engineering Meetup group
 
 ### Other Things
 - [Token Engineering YouTube Channel](https://www.youtube.com/channel/UCDmzlpzOlaTALYV0hAwT0Tg) - 📺 A cornucopia of token engineering lectures. 
