@@ -71,7 +71,7 @@ Upholding a value system is a journey not a destination; it can never be totally
 ![map](CPSConceptMap.gif)
 See Image Source, Ptolemy Project, UC Berkeley [CyberPhysical Systems](https://ptolemy.berkeley.edu/projects/cps/)
 
-In **Voshmgir S, Zargham M. Foundations of cryptoeconomic systems, 2020** a case is made that following the definition of Cyber-Physical Systems, the web3 internet native social and economic infrastructure projects should be approached as Cyber-Physical systems. While CPS predates web3, it is also plagued by ethical questions as algorithms take the role of administering policies which directly impact human activities, as discused in [Zargham, M, Nabben, K., Algorithms as Policy, 2020}(https://kelsienabben.substack.com/p/algorithms-as-policy).
+In **Voshmgir S, Zargham M. Foundations of cryptoeconomic systems, 2020** a case is made that following the definition of Cyber-Physical Systems, the web3 internet native social and economic infrastructure projects should be approached as Cyber-Physical systems. While CPS predates web3, it is also plagued by ethical questions as algorithms take the role of administering policies which directly impact human activities, as discused in [Zargham, M, Nabben, K., Algorithms as Policy, 2020](https://kelsienabben.substack.com/p/algorithms-as-policy).
 
 Following in the engineering tradition, the Token Engineering community has worked on design methodologies and associated design tools in a manner associated with system safety in complex engineered systems. The state of the art in the broader engineering domain can be found in **Leveson NG. Engineering a safer world. The MIT Press; 2016.**
 
