@@ -41,7 +41,7 @@ these six values: integrity, respect for persons, justice, compassion, beneficen
 
 Investors, Builders, and Early Adopters of web-based cryptographically secured social and economic infrastructure and applications have a wide range of beliefs and values but some key concepts form a common thread: privacy, transparency and agency.
 
-[Privacy and transparency are, at first blush, in direct tension](https://forum.1hive.org/t/music-video-is-privacy-in-defiance-of-internet-metaphysics/2329) but this provides a fertile ground for discussing trade-offs. Agency then includes the right of humans to opt-in and out of web3 networks. Furthermore, opting-in does not require an intermediary, provided you are sufficiently technically inclined to manage your own infrastructure and/or private keys. 
+[At first blush, privacy and transparency are in direct tension](https://forum.1hive.org/t/music-video-is-privacy-in-defiance-of-internet-metaphysics/2329) but this provides a fertile ground for discussing trade-offs. Agency then includes the right of humans to opt-in and out of web3 networks. Furthermore, opting-in does not require an intermediary, provided you are sufficiently technically inclined to manage your own infrastructure and/or private keys. 
 
 Another interesting tension arises in the pursuit of agency: in a network, participants are connected, so often one's right to control their own actions can negatively impact others. At one level, protocols can be said to address this directly by providing an explicit specification of what actions are and are not acceptable within the network. However, at the level of governing these networks the boundaries of these rights are non-obvious. 
 
