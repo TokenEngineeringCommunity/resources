@@ -53,7 +53,7 @@ For thoughtful criticism see **Walch A. In Code (Rs) We Trust: Software Develope
 
 ## Reconciling Value Systems
 
-At first glance, these value systems are in conflict. Simply, the authority of a traditional engineer is derived from the power of the nation-state to regulate its territory. However, the web3 value system is native to the internet, the social institution is extra-national and openly rejects the authority of the state to regulate it. Adherents to the web3 value system adhere to regulations out of pragmaticism rather than in deference to those regulatory authorities.
+At first glance, these value systems are in conflict. Simply, the authority of a traditional engineer is derived from the power of the nation-state to regulate its territory-- most jurisdiction limit engineering activities that could affect public wellbeing to licensed professionals. However, the web3 value system is native to the internet, the social institution is extra-national and openly rejects the authority of the state to regulate it. Adherents to the web3 value system adhere to regulations out of pragmaticism rather than in deference to those regulatory authorities.
 
 Let us set aside for a moment the interpretation of the engineering profession as the institution empowered by sovereign nations to design, build and maintain technological infrastructure. Instead let's look at the engineering profession as the institution empowered by the public to safeguard their well-being in the face of technologies so broad and deep that they cannot hope to understand it all, and thus cannot make educated judgements regarding their own individual safety.
 
